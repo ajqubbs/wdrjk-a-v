@@ -1,0 +1,2612 @@
+{
+  "spider": "https://gitee.com/hu-congrong/ltcw/raw/main/xyqxbpq.jar",
+  "lives": [
+    {
+      "name": "鐩存挱",
+      "type": 0,
+      "url": "https://4key.cn/vy6",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}"
+    }
+  ],
+  "sites": [
+    {
+      "key": "鏆洦璧勬簮",
+      "name": "馃鏆洦鈹冨奖瑙�",
+      "type": 0,
+      "api": "https://lz.118318.xyz/api.php/provide/vod/at/xml",
+      "searchable": 1,
+      "quickSearch": 1,
+      "categories": [
+        "鍔ㄦ极鐗�",
+        "鏃ラ煩鍔ㄦ极",
+        "鍥戒骇鍔ㄦ极",
+        "娆х編鍔ㄦ极",
+        "娓彴鍔ㄦ极",
+        "娴峰鍔ㄦ极",
+        "璁板綍鐗�",
+        "绉戝够鐗�",
+        "鎭愭€栫墖",
+        "鍔ㄤ綔鐗�",
+        "鍠滃墽鐗�",
+        "鐖辨儏鐗�",
+        "鍓ф儏鐗�",
+        "鎴樹簤鐗�",
+        "棰勫憡鐗�",
+        "鐢靛奖鐗�",
+        "缁艰壓鐗�",
+        "浼︾悊鐗�",
+        "鍥戒骇鍓�",
+        "棣欐腐鍓�",
+        "闊╁浗鍓�",
+        "娆х編鍓�",
+        "鍙版咕鍓�",
+        "鏃ユ湰鍓�",
+        "娴峰鍓�",
+        "娉板浗鍓�",
+        "杩炵画鍓�",
+        "鐭墽",
+        "鐢靛奖瑙ｈ",
+        "澶ч檰缁艰壓",
+        "娓彴缁艰壓",
+        "鏃ラ煩缁艰壓",
+        "娆х編缁艰壓",
+        "绡悆",
+        "瓒崇悆",
+        "缃戠悆",
+        "鏂鍏�"
+      ]
+    },
+    {
+      "key": "鏆撮璧勬簮",
+      "name": "馃拵鏆撮鈹冭祫婧�",
+      "type": 1,
+      "api": "http://bf.xoxowin86cisyap.com/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "categories": [
+        "鐢靛奖鐗�",
+        "鍔ㄤ綔鐗�",
+        "鍠滃墽鐗�",
+        "鎭愭€栫墖",
+        "绉戝够鐗�",
+        "鐖辨儏鐗�",
+        "鍓ф儏鐗�",
+        "鎴樹簤鐗�",
+        "鍔ㄧ敾鐗�",
+        "绾綍鐗�",
+        "棰勫憡鐗�",
+        "鐞嗚鐗�",
+        "杩炵画鍓�",
+        "鍥戒骇鍓�",
+        "娆х編鍓�",
+        "棣欐腐鍓�",
+        "闊╁浗鍓�",
+        "鍙版咕鍓�",
+        "鏃ユ湰鍓�",
+        "娴峰鍓�",
+        "娉板浗鍓�",
+        "鍔ㄦ极鐗�",
+        "鍥戒骇鍔ㄦ极",
+        "鏃ラ煩鍔ㄦ极",
+        "娆х編鍔ㄦ极",
+        "娓彴鍔ㄦ极",
+        "娴峰鍔ㄦ极",
+        "缁艰壓鐗�",
+        "澶ч檰缁艰壓",
+        "娓彴缁艰壓",
+        "鏃ラ煩缁艰壓",
+        "娆х編缁艰壓",
+        "鐢靛奖瑙ｈ",
+        "閲嶇敓姘戝浗",
+        "绌胯秺骞翠唬",
+        "鐜颁唬瑷€鎯�",
+        "鍙嶈浆鐖芥枃",
+        "濂虫亱鎬昏",
+        "闂绂诲",
+        "閮藉競鑴戞礊",
+        "鍙よ浠欎緺",
+        "绂忓埄",
+        "瓒崇悆",
+        "绡悆",
+        "鏂鍏�"
+      ]
+    },
+    {
+      "key": "澶у湴璧勬簮",
+      "name": "澶у湴璧勬簮(馃敒)",
+      "type": 0,
+      "api": "https://dadiapi.com/api.php/provide/vod/at/xml"
+    },
+    {
+      "key": "鏋侀€熻祫婧�",
+      "name": "鏋侀€熻祫婧�(馃敟)",
+      "type": 1,
+      "api": "https://jszyapi.com/api.php/provide/vod",
+      "categories": [
+        "鐭墽",
+        "鏃ュ墽",
+        "闊╁墽",
+        "椹嘲鍓�",
+        "鍐呭湴鍓�",
+        "娆х編鍓�",
+        "棣欐腐鍓�",
+        "鍙版咕鍓�",
+        "鐢佃鍓�",
+        "鎭愭€栫墖",
+        "鍔ㄧ敾鐗�",
+        "鍓ф儏鐗�",
+        "鎴樹簤鐗�",
+        "鍔ㄤ綔鐗�",
+        "鐖辨儏鐗�",
+        "鍠滃墽鐗�",
+        "绉戝够鐗�",
+        "鐏鹃毦鐗�",
+        "鎮枒鐗�",
+        "鐘姜鐗�",
+        "濂囧够鐗�",
+        "璁板綍鐗�",
+        "浼︾悊鐗�",
+        "鐢靛奖",
+        "涓浗鍔ㄦ极",
+        "鏃ユ湰鍔ㄦ极",
+        "娆х編鍔ㄦ极",
+        "鍔ㄦ极",
+        "缁艰壓",
+        "澶ч檰缁艰壓",
+        "娓彴缁艰壓",
+        "鏃ラ煩缁艰壓",
+        "娆х編缁艰壓",
+        "浣撹偛璧涗簨"
+      ]
+    },
+    {
+      "key": "鏃犲敖璧勬簮",
+      "name": "鏃犲敖璧勬簮(馃敟)",
+      "type": 0,
+      "api": "https://api.wujinapi.me/api.php/provide/vod/from/wjm3u8/at/xml",
+      "categories": [
+        "閭垫皬鐢靛奖",
+        "鎭愭€栫墖",
+        "鍔ㄤ綔鐗�",
+        "鍠滃墽鐗�",
+        "绉戝够鐗�",
+        "濂囧够鐗�",
+        "鍓ф儏鐗�",
+        "鎴樹簤鐗�",
+        "鐖辨儏鐗�",
+        "鎮枒鐗�",
+        "鐘姜鐗�",
+        "浼︾悊鐗�",
+        "绾綍鐗�",
+        "鍔ㄧ敾鐗�",
+        "鏃ラ煩鍔ㄦ极",
+        "鍥戒骇鍔ㄦ极",
+        "娆х編鍔ㄦ极",
+        "鍥戒骇鍓�",
+        "棣欐腐鍓�",
+        "鍙版咕鍓�",
+        "娴峰鍓�",
+        "娆х編鍓�",
+        "闊╁浗鍓�",
+        "鏃ユ湰鍓�",
+        "娉板墽",
+        "澶ч檰缁艰壓",
+        "娓彴缁艰壓",
+        "鏃ラ煩缁艰壓",
+        "娆х編缁艰壓"
+      ]
+    },
+    {
+      "key": "铏庣墮璧勬簮",
+      "name": "铏庣墮璧勬簮(馃敟)",
+      "type": 1,
+      "api": "https://www.huyaapi.com/api.php/provide/vod",
+      "categories": [
+        "鍔ㄧ敾鐗�",
+        "鍔ㄤ綔鐗�",
+        "鍠滃墽鐗�",
+        "鐖辨儏鐗�",
+        "绉戝够鐗�",
+        "鎭愭€栫墖",
+        "鎴樹簤鐗�",
+        "鍓ф儏鐗�",
+        "绾綍鐗�",
+        "浼︾悊鐗�",
+        "棣欐腐鍓�",
+        "鏃ュ墽",
+        "闊╁墽",
+        "娆х編鍓�",
+        "椹嘲鍓�",
+        "鍙版咕鍓�",
+        "鍐呭湴鍓�",
+        "鐢佃鍓�",
+        "涓浗鍔ㄦ极",
+        "鏃ユ湰鍔ㄦ极",
+        "娆х編鍔ㄦ极",
+        "鐭墽",
+        "鍔ㄦ极",
+        "鐢靛奖",
+        "缁艰壓",
+        "浣撹偛璧涗簨"
+      ]
+    },
+    {
+      "key": "鐣彿璧勬簮",
+      "name": "鐣彿璧勬簮(馃敒)",
+      "type": 0,
+      "api": "http://fhapi9.com/api.php/provide/vod/at/xml",
+      "playerUrl": ""
+    },
+    {
+      "key": "閲戝潳璧勬簮",
+      "name": "閲戝潳璧勬簮(馃敒)",
+      "type": 0,
+      "api": "https://www.jkunzyapi.com/api.php/provide/vod/at/xml",
+      "playerUrl": ""
+    },
+    {
+      "key": "閲忓瓙璧勬簮",
+      "name": "馃摗閲忓瓙鈹冭祫婧�",
+      "type": 1,
+      "api": "https://cj.lziapi.com/api.php/provide/vod/from/lzm3u8",
+      "searchable": 1,
+      "quickSearch": 1,
+      "categories": [
+        "鍔ㄤ綔鐗�",
+        "鍠滃墽鐗�",
+        "绉戝够鐗�",
+        "鎭愭€栫墖",
+        "鐖辨儏鐗�",
+        "鍓ф儏鐗�",
+        "鎴樹簤鐗�",
+        "璁板綍鐗�",
+        "浼︾悊鐗�",
+        "鍔ㄦ极鐗�",
+        "棰勫憡鐗�",
+        "鍥戒骇鍓�",
+        "棣欐腐鍓�",
+        "闊╁浗鍓�",
+        "娆х編鍓�",
+        "鍙版咕鍓�",
+        "鏃ユ湰鍓�",
+        "娴峰鍓�",
+        "娉板浗鍓�",
+        "澶ч檰缁艰壓",
+        "娓彴缁艰壓",
+        "鏃ラ煩缁艰壓",
+        "娆х編缁艰壓",
+        "鏃ラ煩鍔ㄦ极",
+        "鍥戒骇鍔ㄦ极",
+        "娆х編鍔ㄦ极",
+        "娓彴鍔ㄦ极",
+        "娴峰鍔ㄦ极",
+        "绡悆",
+        "瓒崇悆",
+        "缃戠悆",
+        "鐭墽",
+        "鏂鍏�",
+        "鐢靛奖瑙ｈ"
+      ]
+    },
+    {
+      "key": "鐙挱璧勬簮",
+      "name": "鐙挱璧勬簮(馃敟)",
+      "type": 1,
+      "api": "https://caiji.dbzy5.com/api.php/provide/vod",
+      "categories": [
+        "鍔ㄤ綔鐗�",
+        "鐖辨儏鐗�",
+        "鍠滃墽鐗�",
+        "绉戝够鐗�",
+        "鎭愭€栫墖",
+        "鎯婃倸鐗�",
+        "鍓ф儏鐗�",
+        "鎴樹簤鐗�",
+        "绾綍鐗�",
+        "浼︾悊鐗�",
+        "鐢靛奖",
+        "鍥戒骇鍓�",
+        "棣欐腐鍓�",
+        "娆х編鍓�",
+        "闊╁墽",
+        "娉板浗鍓�",
+        "鏃ユ湰鍓�",
+        "鍙版咕鍓�",
+        "娴峰鍓�",
+        "杩炵画鍓�",
+        "鍔ㄦ极鐢靛奖",
+        "鍥戒骇鍔ㄦ极",
+        "鏃ユ湰鍔ㄦ极",
+        "娆х編鍔ㄦ极",
+        "娴峰鍔ㄦ极",
+        "鍔ㄦ极",
+        "鐭墽澶у叏",
+        "閲嶇敓姘戝浗",
+        "绌胯秺鐜颁唬",
+        "鍙嶈浆鐖藉墽",
+        "瑷€鎯呮€昏",
+        "鐜颁唬閮藉競",
+        "鍙よ浠欎緺",
+        "鎮枒鐑ц剳",
+        "澶ч檰缁艰壓",
+        "鏃ラ煩缁艰壓",
+        "娓彴缁艰壓",
+        "娆х編缁艰壓",
+        "缁艰壓鐗�",
+        "绡悆",
+        "瓒崇悆",
+        "缃戠悆",
+        "鏂鍏�",
+        "浣撹偛璧涗簨"
+      ]
+    },
+    {
+      "key": "妯傚惂璧勬簮",
+      "name": "妯傚惂璧勬簮(馃敒)",
+      "type": 1,
+      "api": "http://lbapiby.com/api.php/provide/vod",
+      "playerUrl": ""
+    },
+    {
+      "key": "椋樺噷璧勬簮",
+      "name": "馃嵆椋樺噷鈹冭祫婧�",
+      "type": 1,
+      "api": "https://p2100.net/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "categories": [
+        "閭垫皬澶х墖",
+        "鍥戒骇鍓�",
+        "棣欐腐鍓�",
+        "鍙版咕鍓�",
+        "娴峰鍓�",
+        "娆х編鍓�",
+        "闊╁浗鍓�",
+        "鏃ユ湰鍓�",
+        "缁艰壓",
+        "鍔ㄤ綔鐗�",
+        "鍠滃墽鐗�",
+        "绉戝够鐗�",
+        "鎭愭€栫墖",
+        "鍓ф儏鐗�",
+        "鎴樹簤鐗�",
+        "鐖辨儏鐗�",
+        "鐞嗚鐗�",
+        "鍔ㄦ极鐗�",
+        "鍔ㄦ极"
+      ]
+    },
+    {
+      "key": "榄旂埅",
+      "name": "馃洃榄旂埅鈹冮噰闆�",
+      "type": 1,
+      "api": "https://mozhuazy.com/api.php/provide/vod/",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "timeout": 60,
+      "style": {
+        "type": "rect",
+        "ratio": 0.75
+      }
+    },
+    {
+      "key": "闃块噷璧勬簮",
+      "name": "馃啍闃块噷鈹冭祫婧�",
+      "type": 1,
+      "api": "https://alivod.com/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "categories": [
+        "鍔ㄤ綔鐗�",
+        "鍠滃墽鐗�",
+        "鐖辨儏鐗�",
+        "绉戝够鐗�",
+        "鎭愭€栫墖",
+        "鍓ф儏鐗�",
+        "鎴樹簤鐗�",
+        "瀹跺涵鐗�",
+        "鍙よ鐗�",
+        "鎮枒鐗�",
+        "鐞嗚鐗�",
+        "绾綍鐗�",
+        "鍥戒骇鍓�",
+        "棣欐腐鍓�",
+        "鍙版咕鍓�",
+        "鏃ユ湰鍓�",
+        "闊╁浗鍓�",
+        "娆х編鍓�",
+        "娴峰鍓�",
+        "杩炵画鍓�",
+        "鍥戒骇鍔ㄦ极",
+        "鏃ラ煩鍔ㄦ极",
+        "娆х編鍔ㄦ极",
+        "鍔ㄦ极鐢靛奖",
+        "鍐呭湴缁艰壓",
+        "娓彴缁艰壓",
+        "鏃ラ煩缁艰壓",
+        "娆х編缁艰壓"
+      ]
+    },
+    {
+      "key": "鍏夐€熻祫婧�",
+      "name": "馃毃鍏夐€熲攦璧勬簮",
+      "type": 1,
+      "api": "https://api.guangsuapi.com/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "categories": [
+        "鍔ㄤ綔鐗�",
+        "鍠滃墽鐗�",
+        "鎭愭€栫墖",
+        "鐖辨儏鐗�",
+        "绉戝够鐗�",
+        "鎴樹簤鐗�",
+        "鍓ф儏鐗�",
+        "浼︾悊鐗�",
+        "璁板綍鐗�",
+        "澶ч檰鍓�",
+        "娆х編鍓�",
+        "娓境鍓�",
+        "鍙版咕鍓�",
+        "闊╁墽",
+        "鏃ュ墽",
+        "娉板墽",
+        "鐭墽",
+        "缁艰壓",
+        "鍔ㄦ极",
+        "鍔ㄦ极鐢靛奖"
+      ]
+    },
+    {
+      "key": "楂樻竻褰辫",
+      "name": "馃殽楂樻竻鈹冨奖瑙�",
+      "type": 1,
+      "api": "https://api.yzzy-api.com/inc/apijson.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "categories": [
+        "鍔ㄤ綔鐗�",
+        "鍠滃墽鐗�",
+        "鐖辨儏鐗�",
+        "绉戝够鐗�",
+        "鎭愭€栫墖",
+        "鍓ф儏鐗�",
+        "鎴樹簤鐗�",
+        "璁板綍鐗�",
+        "鍊悊鐗�",
+        "鍔ㄧ敾鐗�",
+        "鍥戒骇鍓�",
+        "棣欐腐鍓�",
+        "闊╁浗鍓�",
+        "娆х編鍓�",
+        "鍙版咕鍓�",
+        "鏃ユ湰鍓�",
+        "娴峰鍓�",
+        "娉板浗鍓�",
+        "澶ч檰缁艰壓",
+        "娓彴缁艰壓",
+        "鏃ラ煩缁艰壓",
+        "娆х編缁艰壓",
+        "鏃ラ煩鍔ㄦ极",
+        "鍥戒骇鍔ㄦ极",
+        "娆х編鍔ㄦ极",
+        "绂忓埄"
+      ]
+    },
+    {
+      "key": "榄旈兘褰辫",
+      "name": "馃殺榄旈兘鈹冨奖瑙�",
+      "type": 0,
+      "api": "https://www.mdzyapi.com/api.php/provide/vod/at/xml",
+      "searchable": 1,
+      "quickSearch": 1,
+      "categories": [
+        "鍥戒骇鍔ㄦ极",
+        "娓彴鍔ㄦ极",
+        "鏃ラ煩鍔ㄦ极",
+        "娆х編鍔ㄦ极",
+        "娓彴鍔ㄦ极",
+        "閲岀暘鍔ㄦ极",
+        "鍔ㄦ极鐢靛奖",
+        "鐢靛奖",
+        "鍠滃墽鐗�",
+        "鐖辨儏鐗�",
+        "鎭愭€栫墖",
+        "鎴樹簤鐗�",
+        "绉戝够鐗�",
+        "鍔ㄤ綔鐗�",
+        "鎯婃倸鐗�",
+        "鍙よ鐗�",
+        "瀹跺涵鐗�",
+        "鎮枒鐗�",
+        "鐘姜鐗�",
+        "鍓ф儏鐗�",
+        "鐏鹃毦鐗�",
+        "鍘嗗彶鐗�",
+        "璁板綍鐗�",
+        "浼︾悊鐗�",
+        "鐭墖",
+        "鍥戒骇鍓�",
+        "鍙版咕鍓�",
+        "闊╁浗鍓�",
+        "鏃ユ湰鍓�",
+        "娆х編鍓�",
+        "棣欐腐鍓�",
+        "娉板浗鍓�",
+        "娴峰鍓�",
+        "鐭墽",
+        "澶ч檰缁艰壓",
+        "娓彴缁艰壓",
+        "鏃ラ煩缁艰壓",
+        "娆х編缁艰壓"
+      ]
+    },
+    {
+      "key": "鐧惧害褰辫",
+      "name": "馃帬鐧惧害鈹冨奖瑙�",
+      "type": 0,
+      "api": "https://api.apibdzy.com//api.php/provide/vod/at/xml",
+      "searchable": 1,
+      "quickSearch": 1,
+      "categories": [
+        "鐢靛奖",
+        "鐢佃鍓�",
+        "缁艰壓",
+        "鍔ㄦ极",
+        "鍔ㄤ綔鐗�",
+        "鍠滃墽鐗�",
+        "鐖辨儏鐗�",
+        "绉戝够鐗�",
+        "鎭愭€栫墖",
+        "鍓ф儏鐗�",
+        "鎴樹簤鐗�",
+        "澶ч檰鍓�",
+        "娆х編鍓�",
+        "闊╁墽",
+        "鏃ュ墽",
+        "娓境鍓�",
+        "鍙版咕鍓�",
+        "娉板墽",
+        "绾綍鐗�",
+        "鍏朵粬鍓�",
+        "澶ч檰缁艰壓",
+        "鏃ラ煩缁艰壓",
+        "娓彴缁艰壓",
+        "娆х編缁艰壓",
+        "鍥戒骇鍔ㄦ极",
+        "鏃ラ煩鍔ㄦ极",
+        "娆х編鍔ㄦ极",
+        "鍔ㄧ敾鐢靛奖",
+        "娓彴鍔ㄦ极",
+        "娴峰鍔ㄦ极",
+        "婕斿敱浼�",
+        "浣撹偛璧涗簨",
+        "绡悆",
+        "瓒崇悆",
+        "棰勫憡鐗�",
+        "鏂鍏�",
+        "褰辫瑙ｈ",
+        "鐖芥枃鐭墽",
+        "浼︾悊",
+        "娓彴涓夌骇",
+        "闊╁浗浼︾悊",
+        "瑗挎柟浼︾悊",
+        "鏃ユ湰浼︾悊",
+        "涓ゆ€ц鍫�",
+        "鍐欑湡鐑垶",
+        "4K鐢靛奖",
+        "鏈夊０鍔ㄦ极",
+        "濂抽鎭嬬埍",
+        "鍙嶈浆鐖藉墽",
+        "鍙よ浠欎緺",
+        "骞翠唬绌胯秺",
+        "鑴戞礊鎮枒",
+        "鐜颁唬閮藉競",
+        "閭垫皬鐢靛奖"
+      ]
+    },
+    {
+      "key": "鏂版氮褰辫",
+      "name": "馃彆鏂版氮鈹冨奖瑙�",
+      "type": 0,
+      "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/at/xml",
+      "searchable": 1,
+      "quickSearch": 1,
+      "categories": [
+        "鐢靛奖",
+        "鐢佃鍓�",
+        "鍔ㄦ极",
+        "缁艰壓",
+        "绾綍鐗�",
+        "鍔ㄤ綔鐗�",
+        "鐖辨儏鐗�",
+        "绉戝够鐗�",
+        "鎴樹簤鐗�",
+        "鍓ф儏鐗�",
+        "鎭愭€栫墖",
+        "鍠滃墽鐗�",
+        "澶ч檰鍓�",
+        "娓境鍓�",
+        "鍙版咕鍓�",
+        "娆х編鍓�",
+        "鍔ㄦ极鐢靛奖",
+        "闊╁墽",
+        "鏃ュ墽",
+        "娉板墽",
+        "浼︾悊鐗�",
+        "浣撹偛",
+        "鐭墽"
+      ]
+    },
+    {
+      "key": "闈炲嚒褰辫",
+      "name": "馃挋闈炲嚒鈹冨奖瑙�",
+      "type": 1,
+      "api": "http://api.ffzyapi.com/api.php/provide/vod/from/ffm3u8",
+      "searchable": 1,
+      "changeable": 1,
+      "categories": [
+        "绉戝够鐗�",
+        "鍔ㄤ綔鐗�",
+        "鎭愭€栫墖",
+        "鍠滃墽鐗�",
+        "鐖辨儏鐗�",
+        "鍓ф儏鐗�",
+        "鎴樹簤鐗�",
+        "浼︾悊鐗�",
+        "璁板綍鐗�",
+        "鍔ㄦ极鐗�",
+        "鍥戒骇鍔ㄦ极",
+        "鏃ラ煩鍔ㄦ极",
+        "娴峰鍔ㄦ极",
+        "鍥戒骇鍓�",
+        "闊╁浗鍓�",
+        "鏃ユ湰鍓�",
+        "棣欐腐鍓�",
+        "娆х編鍓�",
+        "鍙版咕鍓�",
+        "娴峰鍓�",
+        "娉板浗鍓�",
+        "澶ч檰缁艰壓",
+        "娓彴缁艰壓",
+        "鏃ラ煩缁艰壓"
+      ]
+    },
+    {
+      "key": "zy_閲戦拱褰辫鐐逛富椤靛垏鎹㈡簮",
+      "name": "馃敯閲戦拱鈹冨奖瑙�",
+      "type": 1,
+      "api": "https://jyzyapi.com/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "categories": [
+        "娆х編鍓�",
+        "棣欐腐鍓�",
+        "闊╁墽",
+        "鏃ュ墽",
+        "椹嘲鍓�",
+        "鍔ㄤ綔鐗�",
+        "鐖辨儏鐗�",
+        "鍠滃墽鐗�",
+        "绉戝够鐗�",
+        "鎭愭€栫墖",
+        "鍓ф儏鐗�",
+        "鎴樹簤鐗�",
+        "璁板綍鐗�",
+        "鍔ㄦ极",
+        "鍐呭湴鍓�",
+        "鍔ㄧ敾鐗�",
+        "涓浗鍔ㄦ极",
+        "鏃ユ湰鍔ㄦ极",
+        "娆х編鍔ㄦ极",
+        "缁艰壓",
+        "寮集鍓�",
+        "浣撹偛璧涗簨"
+      ]
+    },
+    {
+      "key": "铏庣墮",
+      "name": "馃挔鐞ョ弨鈹冨奖瑙�",
+      "type": 1,
+      "api": "https://www.huyaapi.com/api.php/provide/vod/from/hym3u8",
+      "searchable": 0,
+      "quickSearch": 0,
+      "categories": [
+        "鍐呭湴鍓�",
+        "鍔ㄤ綔鐗�",
+        "绉戝够鐗�",
+        "鎴樹簤鐗�",
+        "鍠滃墽鐗�",
+        "鐖辨儏鐗�",
+        "鎭愭€栫墖",
+        "鍐涚墖",
+        "鍓ф儏鐗�",
+        "鍐掗櫓鐗�",
+        "璁板綍鐗�",
+        "闊╁墽",
+        "棣欐腐鍓�",
+        "寮集鍓�",
+        "娆х編鍓�",
+        "鏃ュ墽",
+        "椹嘲鍓�",
+        "浣撹偛璧涗簨",
+        "缁艰壓",
+        "鍔ㄧ敾鐗�",
+        "涓浗鍔ㄦ极",
+        "鏃ユ湰鍔ㄦ极",
+        "娆х編鍔ㄦ极"
+      ]
+    },
+    {
+      "key": "椋炰簯褰辫",
+      "name": "馃椋炰簯锝滃奖瑙�",
+      "type": 1,
+      "api": "http://cj.lziapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "playurl": "json:https://lziplayer.com/?url=",
+      "categories": [
+        "鍥戒骇鍓�",
+        "鍥戒骇鍔ㄦ极",
+        "娉板浗鍓�",
+        "灏忔咕鍓�",
+        "棣欐腐鍓�",
+        "娆х編鍓�",
+        "闊╁浗鍓�",
+        "鏃ユ湰鍓�",
+        "鍔ㄦ极",
+        "浣撹偛",
+        "鍔犵墖",
+        "鍔ㄤ綔鐗�",
+        "鐖辨儏鐗�",
+        "鍠滃墽鐗�"
+      ]
+    },
+    {
+      "key": "360",
+      "name": "3鈨�360鈹冮噰闆嗮煕�",
+      "type": 1,
+      "api": "https://360zy.com/api.php/provide/vod?",
+      "searchable": 1,
+      "changeable": 1,
+      "categories": [
+        "鍔ㄤ綔鐗�",
+        "鍠滃墽鐗�",
+        "鐖辨儏鐗�",
+        "绉戝够鐗�",
+        "鎭愭€栫墖",
+        "鍓ф儏鐗�",
+        "鎴樹簤鐗�",
+        "鍙よ鐗�",
+        "鎮枒鐗�",
+        "閲戠墖",
+        "鐏鹃毦鐗�",
+        "鍥戒骇鍓�",
+        "棣欐腐鍓�",
+        "闊╁浗鍓�",
+        "娆х編鍓�",
+        "寮集鍓�",
+        "鏃ユ湰鍓�",
+        "娴峰鍓�",
+        "娉板浗鍓�",
+        "澶ч檰缁艰壓",
+        "娓彴缁艰壓",
+        "鏃ラ煩缁艰壓",
+        "娆х編缁艰壓",
+        "鍥戒骇鍔ㄦ极",
+        "娆х編鍔ㄦ极",
+        "鏃ラ煩鍔ㄦ极",
+        "鐜颁唬閮藉競",
+        "鑴戞礊鎮枒",
+        "骞翠唬绌胯秺",
+        "鍙よ浠欎緺",
+        "濂抽鎭嬬埍",
+        "鎴愰暱閫嗚",
+        "鍙嶈浆鐖藉墽"
+      ]
+    },
+    {
+      "key": "xml_鑼呭彴璧勬簮",
+      "name": "馃鑼呭彴鈹冭祫婧�",
+      "type": 0,
+      "api": "https://caiji.maotaizy.cc/api.php/provide/vod/from/mtm3u8/at/xml/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "2400閮ㄦ亹鎬栫數褰别煋�",
+      "name": "馃幀鎭愭€栫數褰扁攦鏆洦",
+      "type": 3,
+      "api": "http://zizhuyun.top/yuan/jy/lib/16.js",
+      "ext": "http://zizhuyun.top/yuan/jy/lib/2400.js"
+    },
+    {
+      "key": "楝肩墖涔嬪",
+      "name": "楝肩墖褰辫鈹冩毊闆�",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "http://zizhuyun.top/yuan/jy/xyqxbpq.jar",
+      "ext": "http://zizhuyun.top/yuan/jy/lib/楝肩墖.json"
+    },
+    {
+      "key": "钘よ棨",
+      "name": "鏆洦馃挴褰辫4K",
+      "type": 3,
+      "api": "https://gitee.com/cpu-iy/lib/raw/master/lib/drpy2.min.js",
+      "ext": "https://gitee.com/cpu-iy/iy/raw/master/lib/%E8%97%A4%E8%97%A4.png"
+    },
+    {
+      "key": "鑼尗",
+      "name": "鏆洦馃挴褰辫4K",
+      "type": 3,
+      "api": "https://gitee.com/cpu-iy/lib/raw/master/lib/drpy2.min.js",
+      "ext": "https://gitee.com/cpu-iy/iy/raw/master/lib/%E8%8C%AB%E8%8C%AB.png"
+    },
+    {
+      "key": "鑷宠嚮娓呴-7",
+      "name": "鏆洦馃挴褰辫4K",
+      "type": 4,
+      "api": "http://sspa8.top:8100/php/娓呴.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0
+    },
+    {
+      "key": "鑷宠嚮",
+      "name": "鏆洦馃挴褰辫4K",
+      "type": 3,
+      "api": "csp_AweSomeGuard",
+      "jar": "https://gitee.com/M60m/60/raw/master/lib/%E5%A5%87%E8%BF%B9%E4%BA%91yunok.png",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": {
+        "sp": "ZhiZhen",
+        "cookie": "http://14.103.129.80:999/鏆楅粦4k濂囪抗/lib/yunAkick.jpg",
+        "uc_cookie": "http://gh.llkk.cc/https://raw.githubusercontent.com/IY-CPU/IY/main/jars/uc.png",
+        "baidu_cookie": "https://gitee.com/M60m/60/raw/master/lib/%E5%A5%87%E8%BF%B9%E4%BA%91_bd.txt"
+      },
+      "timeout": 25
+    },
+    {
+      "key": "鐜╁伓",
+      "name": "濂囪抗2馃挴鐧惧害4K",
+      "type": 3,
+      "api": "csp_AweSomeGuard",
+      "jar": "https://gitee.com/M60m/60/raw/master/lib/%E5%A5%87%E8%BF%B9%E4%BA%91yunok.png",
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "ext": {
+        "sp": "Wogg",
+        "cookie": "http://14.103.129.80:999/鏆楅粦4k濂囪抗/lib/yunAkick.jpg",
+        "uc_cookie": "http://gh.llkk.cc/https://raw.githubusercontent.com/IY-CPU/IY/main/jars/uc.png",
+        "baidu_cookie": "https://gitee.com/M60m/60/raw/master/lib/%E5%A5%87%E8%BF%B9%E4%BA%91_bd.txt"
+      },
+      "timeout": 30
+    },
+    {
+      "key": "鏈ㄥ伓",
+      "name": "濂囪抗3馃挴鐧惧害4K",
+      "type": 3,
+      "api": "csp_AweSomeGuard",
+      "jar": "https://gitee.com/M60m/60/raw/master/lib/%E5%A5%87%E8%BF%B9%E4%BA%91yunok.png",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": {
+        "sp": "Muou",
+        "cookie": "http://14.103.129.80:999/鏆楅粦4k濂囪抗/lib/yunAkick.jpg",
+        "uc_cookie": "http://gh.llkk.cc/https://raw.githubusercontent.com/IY-CPU/IY/main/jars/uc.png",
+        "baidu_cookie": "https://gitee.com/M60m/60/raw/master/lib/%E5%A5%87%E8%BF%B9%E4%BA%91_bd.txt"
+      },
+      "timeout": 25
+    },
+    {
+      "key": "鐚尓褰遍櫌",
+      "name": "鐚尓褰遍櫌",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": {
+        "璇锋眰澶�": "User-Agent$MOBILE_UA",
+        "缂栫爜": "UTF-8",
+        "鍒嗙被": "鎭愭€栫墖$39#鍔ㄤ綔鐗�$6#鍠滃墽鐗�$7#鐖辨儏鐗�$8#绉戝够鐗�$9#鍓ф儏鐗�$10#鎴樹簤鐗�$11#绾綍鐗�$12#鐑棬鐭墽$40#鍥戒骇鍓�$13#棣欐腐鍓�$14#闊╁浗鍓�$15#娆х編鍓�$16#鍙版咕鍓�$22#鏃ユ湰鍓�$21#娉板浗鍓�$20#娴峰鍓�$23#缁艰壓鑺傜洰$3#妯辫姳鍔ㄦ极$4#",
+        "鍒嗙被url": "http://www.zz1yy.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html"
+      }
+    },
+    {
+      "key": "鑻规灉褰辫",
+      "name": "馃挕闈掓锝滆嫻鏋滃奖瑙�",
+      "type": 3,
+      "api": "csp_LiteApple",
+      "jar": "https://chuxinya.top/f/pQk5TA/鍏斿徑.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "csp_Bili_Meinvw",
+      "name": "鏆洦鈹冪編濂宠垶韫�",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "jar": "https://gitee.com/YW66/ZL/raw/master/xuexi.jar",
+      "ext": " https://x.6788888.xyz/M1/json/meinv.json"
+    },
+    {
+      "key": "csp_BBB",
+      "name": "鏆洦鈹冭垶韫堝悎闆�",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "jar": "https://gitee.com/YW66/ZL/raw/master/xuexi.jar",
+      "ext": "https://x.6788888.xyz/M1/json/bili2.json"
+    },
+    {
+      "key": "csp_Bili_Nvtuan",
+      "name": "鏆洦鈹冨コ鍥㈢儹鑸�",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "jar": "https://gitee.com/YW66/ZL/raw/master/xuexi.jar",
+      "ext": " https://x.6788888.xyz/M1/json/nvtuan.json"
+    },
+    {
+      "key": "csp_闈炲嚒璧勬簮",
+      "name": "闈掓褰辫鈹冮潪鍑¤祫婧�",
+      "type": 1,
+      "api": "http://cj.ffzyapi.com/api.php/provide/vod/",
+      "playurl": "json:http://jx.84jia.com/m3u8ts.php?url=",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "categories": [
+        "鍔ㄤ綔鐗�",
+        "鍠滃墽鐗�",
+        "绉戝够鐗�",
+        "鎭愭€栫墖",
+        "鐖辨儏鐗�",
+        "鍓ф儏鐗�",
+        "鎴樹簤鐗�",
+        "璁板綍鐗�",
+        "鍥戒骇鍓�",
+        "娆х編鍓�",
+        "棣欐腐鍓�",
+        "闊╁浗鍓�",
+        "鍙版咕鍓�",
+        "鏃ユ湰鍓�",
+        "娴峰鍓�",
+        "娉板浗鍓�",
+        "鍥戒骇鍔ㄦ极",
+        "鏃ラ煩鍔ㄦ极",
+        "娆х編鍔ㄦ极",
+        "娓彴鍔ㄦ极",
+        "娴峰鍔ㄦ极",
+        "澶ч檰缁艰壓",
+        "娓彴缁艰壓",
+        "鏃ラ煩缁艰壓",
+        "娆х編缁艰壓"
+      ]
+    },
+    {
+      "key": "鍗ч緳褰辫",
+      "name": "闈掓褰辫鈹冨崸榫欏奖瑙�",
+      "type": 1,
+      "api": "https://collect.wolongzyw.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "categories": [
+        "鍥戒骇鍓�",
+        "鐭墽",
+        "闊╁浗鍓�",
+        "棣欐腐鍓�",
+        "鍙版咕鍓�",
+        "娆х編鍓�",
+        "鍔ㄤ綔鐗�",
+        "绉戝够鐗�",
+        "鎴樹簤鐗�",
+        "濂囧够鐗�",
+        "鍠滃墽鐗�",
+        "鐖辨儏鐗�",
+        "鎭愭€栫墖",
+        "鐘姜鐗�",
+        "鎮枒鐗�",
+        "鎯婃倸鐗�",
+        "鍓ф儏鐗�",
+        "鍐掗櫓鐗�",
+        "璁板綍鐗�",
+        "鍔ㄤ綔鐗�",
+        "鏃ユ湰鍓�",
+        "娉板墽",
+        "鍥戒骇缁艰壓",
+        "娓彴缁艰壓",
+        "娆х編缁艰壓",
+        "鏃ラ煩缁艰壓",
+        "鍥戒骇鍔ㄦ极",
+        "娓彴鍔ㄦ极",
+        "鏃ラ煩鍔ㄦ极"
+      ]
+    },
+    {
+      "key": "绾㈢墰褰辫",
+      "name": "闈掓褰辫鈹冪孩鐗涘奖瑙�",
+      "type": 1,
+      "api": "https://www.hongniuzy2.com/api.php/provide/vod/",
+      "searchable": 0,
+      "quickSearch": 0,
+      "categories": [
+        "鍥戒骇鍓�",
+        "鐭墽",
+        "闊╁浗鍓�",
+        "棣欐腐鍓�",
+        "鍙版咕鍓�",
+        "娆х編鍓�",
+        "鍔ㄤ綔鐗�",
+        "绉戝够鐗�",
+        "鎴樹簤鐗�",
+        "濂囧够鐗�",
+        "鍠滃墽鐗�",
+        "鐖辨儏鐗�",
+        "鎭愭€栫墖",
+        "鐘姜鐗�",
+        "鎮枒鐗�",
+        "鎯婃倸鐗�",
+        "鍓ф儏鐗�",
+        "鍐掗櫓鐗�",
+        "璁板綍鐗�",
+        "鍔ㄤ綔鐗�",
+        "鏃ユ湰鍓�",
+        "娉板墽",
+        "鍥戒骇缁艰壓",
+        "娓彴缁艰壓",
+        "娆х編缁艰壓",
+        "鏃ラ煩缁艰壓",
+        "鍥戒骇鍔ㄦ极",
+        "娓彴鍔ㄦ极",
+        "鏃ラ煩鍔ㄦ极"
+      ]
+    },
+    {
+      "key": "褰辫鐗囧簱缃�",
+      "name": "褰辫鐗囧簱缃�",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": {
+        "璇锋眰澶�": "User-Agent$MOBILE_UA",
+        "缂栫爜": "UTF-8",
+        "绾胯矾鏁扮粍": "gico&&</a >",
+        "绾胯矾鏍囬": ">&&<",
+        "鍒嗙被": "鐢靛奖$dianying#鐢佃鍓�$dianshiju#缁艰壓$zongyi#鍔ㄦ极$dongman#鐭墽$duanju#",
+        "鍒嗙被url": "http://www.lyjrd.com/list/{cateId}__dalu___hits_{catePg}.html"
+      }
+    },
+    {
+      "key": "椹跨珯2",
+      "name": "馃敟椹跨珯鈹冭祫婧�",
+      "type": 3,
+      "api": "https://8815.kstore.vip/tvbox/js/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://8815.kstore.vip/tvbox/js/AppGet.js?type=url&params=https://ie6ydh7n3bm2w7e6wr8v5b3wq8.68.gy:61668$dyyztvapiappyyds$dyyztvapiappyyds"
+    },
+    {
+      "key": "浜轰汉褰辫",
+      "name": "馃敟浜轰汉鈹冨奖瑙�",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://8815.kstore.vip/tvbox/json/浜轰汉.png",
+      "jar": "https://8815.kstore.vip/tvbox/lzxw.jpg"
+    },
+    {
+      "key": "18JTV",
+      "name": "馃敒JTV",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": {
+        "璇锋眰澶�": "User-Agent$MOBILE_UA",
+        "缂栫爜": "UTF-8",
+        "鐩存帴鎾斁": "1",
+        "鍒嗙被": "鍥戒骇$1#鏃ラ煩$2#娆х編$3#浼︾悊$4#鍔ㄦ极$16#鍙︾被$39#",
+        "鍒嗙被url": "https://5x5x.me/t/{cateId}-{catePg}/"
+      }
+    },
+    {
+      "key": "椴ㄩ奔璧勬簮",
+      "name": "鉂ら波楸艰祫婧�",
+      "type": 0,
+      "searchable": 0,
+      "quickSearch": 0,
+      "api": "https://shayuzy.com/api.php/provide/vod/at/xml/",
+      "playUrl": ""
+    },
+    {
+      "key": "鐜夊厰璧勬簮",
+      "name": "鉂ょ帀鍏旇祫婧�",
+      "type": 0,
+      "searchable": 0,
+      "quickSearch": 0,
+      "api": "https://apiyutu.com/api.php/provide/vod/at/xml/",
+      "playUrl": ""
+    },
+    {
+      "key": "鎼渁v璧勬簮",
+      "name": "鉂ゆ悳av璧勬簮",
+      "type": 0,
+      "searchable": 0,
+      "quickSearch": 0,
+      "api": "https://api.souavzy.vip/api.php/provide/vod/at/xml",
+      "playUrl": ""
+    },
+    {
+      "key": "鉂�155璧勬簮",
+      "name": "鉂�155璧勬簮",
+      "type": 1,
+      "api": "https://155api.com/api.php/provide/vod/at/json/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "鉂缁嗚優璧勬簮",
+      "name": "鉂缁嗚優璧勬簮",
+      "type": 1,
+      "api": "https://www.xxibaozyw.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "椋庢祦瑙嗛",
+      "name": "椋庢祦瑙嗛",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": {
+        "璇锋眰澶�": "User-Agent$MOBILE_UA",
+        "缂栫爜": "UTF-8",
+        "鐩存帴鎾斁": "1",
+        "鍒嗙被": "鏃ラ煩$1#鍋锋媿$21#鏃犵爜$22#鑷媿$23#宸ㄤ钩$24#鍗庝汉$25#瀚╂ā$26#鍓ф儏$27#鍔ㄦ极$28#鐔熷コ$29#涓濊$30#娆х編$32#鏈夌爜$33#鍒舵湇$34#鍙ｄ氦$35#涓夌骇$31#",
+        "鍒嗙被url": "https://hekody.flsp8.boats/vodtype/{cateId}-{catePg}.html"
+      }
+    },
+    {
+      "key": "椋炴祦瑙嗛",
+      "name": "椋炴祦瑙嗛",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": {
+        "璇锋眰澶�": "User-Agent$MOBILE_UA",
+        "缂栫爜": "UTF-8",
+        "鐩存帴鎾斁": "",
+        "绾胯矾鏁扮粍": "playlist&&</a >",
+        "绾胯矾鏍囬": ">&&<",
+        "鍒嗙被": "鐢靛奖$151438147786375168#鐢佃鍓�$151438147794763777#缁艰壓$151438147807346691#鍔ㄦ极$151438147807346690#浣撹偛$151438147807346693#鐭墽$331153971999670710#",
+        "鍒嗙被url": "https://www.flixflop.com/explore/{cateId}?page={catePg}"
+      }
+    },
+    {
+      "key": "mgdh",
+      "name": "鑺掓灉鈹冨姩鐢�",
+      "type": 3,
+      "api": "http://www.meowtv.cn/js/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://www.meowtv.cn/js/meow.php?file=mgdh"
+    },
+    {
+      "key": "hyzb",
+      "name": "铏庣墮鈹冪洿鎾�",
+      "type": 3,
+      "api": "http://www.meowtv.cn/js/drpy2.min.js",
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": "http://www.meowtv.cn/js/meow.php?file=hyzb"
+    },
+    {
+      "key": "澶╁惎褰辫",
+      "name": "澶╁惎褰辫",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": {
+        "璇锋眰澶�": "User-Agent$MOBILE_UA",
+        "缂栫爜": "UTF-8",
+        "鎾斁鏁扮粍": "episodes-list clearfix&&</ul>",
+        "鎾斁鍒楄〃": "<a&&a>",
+        "鎾斁鏍囬": ">&&<[涓嶅寘鍚�:澶稿厠缃戠洏]",
+        "鎾斁閾炬帴": "href=\"&&\"",
+        "鍒嗙被": "鐢靛奖$1#鐢佃鍓�$2#缁艰壓$3#鍔ㄦ极$4#鐭墽$5#",
+        "鍒嗙被url": "https://www.tianqitv.net/vodlist/{cateId}?catid=0&type=&area=&year=&page={catePg}"
+      }
+    },
+    {
+      "key": "鉂�91楹昏眴",
+      "name": "鉂�91楹昏眴",
+      "type": 1,
+      "api": "https://19q.cc/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "鉂ょ暘鑼勮祫婧�",
+      "name": "鉂ょ暘鑼勮祫婧�",
+      "type": 1,
+      "api": "https://fqzy.me//api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "fhapi9",
+      "name": "鉂ょ暘鍙疯祫婧�",
+      "type": 1,
+      "api": "http://fhapi9.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "馃挒澶у湴璧勬簮馃挒",
+      "name": "鉂ゅぇ鍦拌祫婧�",
+      "type": 0,
+      "api": "https://dadiapi.com/api.php",
+      "searchable": 0,
+      "quickSearch": 0
+    },
+    {
+      "key": "鉂や箰鎾祫婧�",
+      "name": "鉂や箰鎾祫婧�",
+      "type": 1,
+      "api": "https://lbapi9.com/api.php/provide/vod/",
+      "searchable": 0,
+      "quickSearch": 0
+    },
+    {
+      "key": "鉂ょ暘鍙疯祫婧�",
+      "name": "鉂ょ暘鍙疯祫婧�",
+      "type": 1,
+      "api": "http://fhapi9.com/api.php/provide/vod/",
+      "searchable": 0,
+      "quickSearch": 0
+    },
+    {
+      "key": "鉂Ivin",
+      "name": "鉂Ivin",
+      "type": 0,
+      "api": "http://lbapiby.com/api.php/provide/vod/at/xml"
+    },
+    {
+      "key": "dadiapi.com",
+      "name": "鉂ゅぇ鍦�",
+      "type": 0,
+      "api": "http://dadiapi.com/api.php",
+      "searchable": 1,
+      "recordable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.33
+      },
+      "header": {
+        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+        "User-Agent": "Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/117.0.0.0Safari/537.36"
+      }
+    },
+    {
+      "key": "鉂ょ帀鍏�",
+      "name": "鉂ょ帀鍏�",
+      "type": 1,
+      "api": "https://apiyutu.com/api.php/provide/vod/",
+      "searchable": 0,
+      "quickSearch": 0
+    },
+    {
+      "key": "9鍙疯祫婧�",
+      "name": "鉂�9鍙疯祫婧�",
+      "type": 0,
+      "api": "http://fhapi9.com/api.php/provide/vod/at/xml/",
+      "searchable": 0,
+      "quickSearch": 0
+    },
+    {
+      "key": "fqzy璧勬簮",
+      "name": "鉂ゅ浗浜�",
+      "type": 1,
+      "api": "https://fqzy.me//api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "changeable": 1,
+      "categories": [
+        "榛戞枡缃戞洕",
+        "鍥戒骇澶у埗浣�",
+        "鍋锋媿鑷媿",
+        "楂樻竻鏃犵爜",
+        "涔变鸡姣佷笁瑙�",
+        "娣贡瀛︾敓",
+        "涓绘挱濂崇綉绾�",
+        "楂樻竻鏈夌爜",
+        "涓枃瀛楀箷",
+        "鍔ㄦ极绮鹃€�",
+        "娆х編绮惧搧"
+      ]
+    },
+    {
+      "key": "didi",
+      "name": "鉂ゆ淮婊�(鐩磋繛)",
+      "type": 1,
+      "api": "https://api.ddapi.cc/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "filterable": 1,
+      "jar": "./lib/o.jar"
+    },
+    {
+      "key": "璞嗙摚閲囬泦璧勬簮",
+      "name": "馃璞嗙摚鈹冭祫婧�",
+      "type": 1,
+      "api": "https://caiji.dbzy.tv/api.php/provide/vod/from/dbm3u8/at/josn/",
+      "playerType": 1,
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "鍗ч緳璧勬簮",
+      "name": "馃悏鍗ч緳鈹冭祫婧�",
+      "type": 1,
+      "api": "https://collect.wolongzyw.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "categories": [
+        "鍥戒骇鍓�",
+        "棣欐腐鍓�",
+        "鎭愭€栫墖",
+        "鍔ㄤ綔鐗�"
+      ]
+    },
+    {
+      "key": "鐙挱璧勬簮",
+      "name": "馃鐙挱鈹冭祫婧�",
+      "type": 0,
+      "api": "https://caiji.dbzy.tv/api.php/provide/vod/from/dbm3u8/at/xml",
+      "searchable": 1,
+      "quickSearch": 1,
+      "categories": [
+        "鐢靛奖",
+        "鍔ㄤ綔鐗�",
+        "鐖辨儏鐗�",
+        "鍠滃墽鐗�",
+        "绉戝够鐗�",
+        "鎭愭€栫墖",
+        "鎯婃倸鐗�",
+        "鍓ф儏鐗�",
+        "鎴樹簤鐗�",
+        "绾綍鐗�",
+        "浼︾悊鐗�",
+        "鍥戒骇鍓�",
+        "棣欐腐鍓�",
+        "娆х編鍓�",
+        "闊╁墽",
+        "娉板浗鍓�",
+        "鏃ユ湰鍓�",
+        "鍙版咕鍓�",
+        "娴峰鍓�",
+        "杩炵画鍓�",
+        "鍔ㄦ极鐢靛奖",
+        "鍥戒骇鍔ㄦ极",
+        "鏃ユ湰鍔ㄦ极",
+        "娆х編鍔ㄦ极",
+        "娴峰鍔ㄦ极",
+        "鍔ㄦ极",
+        "鐭墽澶у叏",
+        "閲嶇敓姘戝浗",
+        "绌胯秺鐜颁唬",
+        "鍙嶈浆鐖藉墽",
+        "瑷€鎯呮€昏",
+        "鐜颁唬閮藉競",
+        "鍙よ浠欎緺",
+        "鎮枒鐑ц剳",
+        "澶ч檰缁艰壓",
+        "鏃ラ煩缁艰壓",
+        "娓彴缁艰壓",
+        "娆х編缁艰壓",
+        "缁艰壓鐗�",
+        "绡悆",
+        "瓒崇悆",
+        "缃戠悆",
+        "鏂鍏�",
+        "浣撹偛璧涗簨"
+      ]
+    },
+    {
+      "key": "鐗涚墰褰辫",
+      "name": "馃悇鐗涚墰鈹冭祫婧�",
+      "type": 0,
+      "api": "https://api.niuniuzy.me/api.php/provide/vod/at/xml",
+      "searchable": 1,
+      "quickSearch": 1,
+      "categories": [
+        "鍔ㄤ綔鐗�",
+        "鍠滃墽鐗�",
+        "鐖辨儏鐗�",
+        "绉戝够鐗�",
+        "鎭愭€栫墖",
+        "鍓ф儏鐗�",
+        "鎴樹簤鐗�",
+        "鍔ㄧ敾鐗�",
+        "绾綍鐗�",
+        "棰勫憡鐗�",
+        "閭垫皬鐢靛奖",
+        "4K鐢靛奖",
+        "鍥戒骇鍓�",
+        "娆х編鍓�",
+        "闊╁墽",
+        "鏃ュ墽",
+        "娓墽",
+        "鍙板墽",
+        "娉板墽",
+        "娴峰鍓�",
+        "鍥戒骇鍔ㄦ极",
+        "鏃ラ煩鍔ㄦ极",
+        "娆х編鍔ㄦ极",
+        "娓彴鍔ㄦ极",
+        "娴峰鍔ㄦ极",
+        "褰辫瑙ｈ",
+        "鐖芥枃鐭墽",
+        "浼︾悊",
+        "娓彴涓夌骇",
+        "闊╁浗浼︾悊",
+        "瑗挎柟浼︾悊",
+        "鏃ユ湰浼︾悊",
+        "涓ゆ€ц鍫�",
+        "鍐欑湡鐑垶",
+        "鏈夊０鍔ㄦ极",
+        "濂抽鎭嬬埍",
+        "鍙嶈浆鐖藉墽",
+        "鍙よ浠欎緺",
+        "骞翠唬绌胯秺",
+        "鑴戞礊鎮枒",
+        "鐜颁唬閮藉競",
+        "婕斿敱浼�",
+        "澶ч檰缁艰壓",
+        "鏃ラ煩缁艰壓",
+        "娓彴缁艰壓",
+        "娆х編缁艰壓",
+        "绡悆",
+        "瓒崇悆"
+      ]
+    },
+    {
+      "key": "馃敯T4-qingting",
+      "name": "闊充箰-铚昏湏(馃敯T4)",
+      "type": 4,
+      "api": "https://catbox.n13.club/t9/qingting.php"
+    },
+    {
+      "key": "馃敯T4-yugaopian",
+      "name": "褰辫-棰勫憡鐗�(馃敯T4)",
+      "type": 4,
+      "api": "https://catbox.n13.club/t9/yugaopian.php"
+    },
+    {
+      "key": "馃敯T4-mengtaiqi",
+      "name": "褰辫-钂欏お濂�(馃敯T4)",
+      "type": 4,
+      "api": "https://catbox.n13.club/t9/mengtaiqi.php"
+    },
+    {
+      "key": "馃敯T4-xingzhige",
+      "name": "褰辫-鐭墽(馃敯T4)",
+      "type": 4,
+      "api": "https://catbox.n13.club/t9/xingzhige.php"
+    },
+    {
+      "key": "馃敯T4-lianyu",
+      "name": "褰辫-鎭嬮奔(馃敯T4)",
+      "type": 4,
+      "api": "https://catbox.n13.club/t9/lianyu.php"
+    },
+    {
+      "key": "馃敯T4-fenxiang",
+      "name": "褰辫-绮夎薄(馃敯T4)",
+      "type": 4,
+      "api": "https://catbox.n13.club/t9/fenxiang.php"
+    },
+    {
+      "key": "馃敯T4-jumeng",
+      "name": "褰辫-鑱氭ⅵ(馃敯T4)",
+      "type": 4,
+      "api": "https://catbox.n13.club/t9/jumeng.php"
+    },
+    {
+      "key": "馃敯T4-jinpai111",
+      "name": "褰辫-閲戠墝(馃敯T4)",
+      "type": 4,
+      "api": "https://catbox.n13.club/t9/jinpai.php"
+    },
+    {
+      "key": "馃敯T4-bulei111",
+      "name": "褰辫-甯冮浄(馃敯T4)",
+      "type": 4,
+      "api": "https://catbox.n13.club/t9/bulei.php"
+    },
+    {
+      "key": "馃敯T4-huaxiaozhu111",
+      "name": "褰辫-鑺卞皬鐚�(馃敯T4)",
+      "type": 4,
+      "api": "https://catbox.n13.club/t9/huaxiaozhu.php"
+    },
+    {
+      "key": "馃敯T4-jimi",
+      "name": "褰辫-鍚夌背(馃敯T4)",
+      "type": 4,
+      "api": "https://catbox.n13.club/t9/jimi.php"
+    },
+    {
+      "key": "馃敯T4-batian",
+      "name": "褰辫-鍏ぉ(馃敯T4)",
+      "type": 4,
+      "api": "https://catbox.n13.club/t9/batian.php"
+    },
+    {
+      "key": "馃敯T4-fangzhou",
+      "name": "褰辫-鏂硅垷(馃敯T4)",
+      "type": 4,
+      "api": "https://catbox.n13.club/t9/fangzhou.php"
+    },
+    {
+      "key": "馃敯T4-fanshu",
+      "name": "褰辫-鐣柉(馃敯T4)",
+      "type": 4,
+      "api": "https://catbox.n13.club/t9/fanshu.php"
+    },
+    {
+      "key": "馃敯T4-tianfeng",
+      "name": "褰辫-澶╁嘲(馃敯T4)",
+      "type": 4,
+      "api": "https://catbox.n13.club/t9/tianfeng.php"
+    },
+    {
+      "key": "馃敯T4-hg",
+      "name": "褰辫-HG(馃敯T4)",
+      "type": 4,
+      "api": "https://catbox.n13.club/t9/hg.php"
+    },
+    {
+      "key": "馃敯T4-mifun",
+      "name": "褰辫-绫抽キ(馃敯T4)",
+      "type": 4,
+      "api": "https://catbox.n13.club/t9/mifun.php"
+    },
+    {
+      "key": "馃敯T4-caiji",
+      "name": "褰辫-閲囬泦(馃敯T4)",
+      "type": 4,
+      "api": "https://catbox.n13.club/t9/caiji.php"
+    },
+    {
+      "key": "馃敯T4-jianpian",
+      "name": "褰辫-鑽愮墖(馃敯T4)",
+      "type": 4,
+      "api": "https://catbox.n13.club/t9/jianpian.php"
+    },
+    {
+      "key": "馃敯T4-huya",
+      "name": "褰辫-铏庣墮缁忓吀(馃敯T4)",
+      "type": 4,
+      "api": "https://catbox.n13.club/t9/huya.php"
+    },
+    {
+      "key": "馃敯T4-lunbo",
+      "name": "褰辫-YY杞挱(馃敯T4)",
+      "type": 4,
+      "api": "https://catbox.n13.club/t9/yylb.php"
+    },
+    {
+      "key": "馃敯T4-suishenting",
+      "name": "鍏朵粬-闅忚韩鍚�(馃敯T4)",
+      "type": 4,
+      "api": "https://catbox.n13.club/t9/suishenting.php"
+    },
+    {
+      "key": "馃敯T4-2024鐑棬",
+      "name": "闊充箰-鐑棬MV(馃敯T4)",
+      "type": 4,
+      "api": "https://catbox.n13.club/t9/bili.php?id=2024"
+    },
+    {
+      "key": "馃敯T4-jijiu",
+      "name": "鍏朵粬-鎬ユ晳(馃敯T4)",
+      "type": 4,
+      "api": "https://catbox.n13.club/t9/jijiu.php"
+    },
+    {
+      "key": "馃敯T4-cctv",
+      "name": "鍏朵粬-澶(馃敯T4)",
+      "type": 4,
+      "api": "https://catbox.n13.club/t9/cctv.php"
+    },
+    {
+      "key": "馃敯T4-cntv",
+      "name": "鍏朵粬-澶2(馃敯T4)",
+      "type": 4,
+      "api": "https://catbox.n13.club/t9/cntv.php"
+    },
+    {
+      "key": "馃敯T4-blh",
+      "name": "鍎跨-璐濅箰铏�(馃敯T4)",
+      "type": 4,
+      "api": "https://catbox.n13.club/t9/beilehu.php"
+    },
+    {
+      "key": "馃敯T4-tangdou",
+      "name": "闊充箰-绯栬眴(馃敯T4)",
+      "type": 4,
+      "api": "https://catbox.n13.club/t9/tangdou.php"
+    },
+    {
+      "key": "馃敯T4-djuu",
+      "name": "闊充箰-DJUU(馃敯T4)",
+      "type": 4,
+      "api": "https://catbox.n13.club/t9/djuu.php"
+    },
+    {
+      "key": "馃敯T4-jieshuo",
+      "name": "B绔�-瑙ｈ(馃敯T4)",
+      "type": 4,
+      "api": "https://catbox.n13.club/t9/bili.php?id=褰辫瑙ｈ"
+    },
+    {
+      "key": "馃敯T4-bmtv",
+      "name": "B绔�-MTV(馃敯T4)",
+      "type": 4,
+      "api": "https://catbox.n13.club/t9/bili.php?id=bMTV"
+    },
+    {
+      "key": "馃敯T4-Blixs",
+      "name": "B绔�-鐩稿０(馃敯T4)",
+      "type": 4,
+      "api": "https://catbox.n13.club/t9/bili.php?id=Blixs"
+    },
+    {
+      "key": "馃敯T4-Blixq",
+      "name": "B绔�-鎴忔洸(馃敯T4)",
+      "type": 4,
+      "api": "https://catbox.n13.club/t9/bili.php?id=Blixq"
+    },
+    {
+      "key": "馃敯T4-Bliych",
+      "name": "B绔�-婕斿敱浼�(馃敯T4)",
+      "type": 4,
+      "api": "https://catbox.n13.club/t9/bili.php?id=Bliych"
+    },
+    {
+      "key": "馃敯T4-mybili",
+      "name": "B绔�-mybili(馃敯T4)",
+      "type": 4,
+      "api": "https://catbox.n13.club/t9/bili.php?id=鎴戠殑鍝斿摡"
+    },
+    {
+      "key": "馃敯T4-bili",
+      "name": "B绔�-鍝斿摡(馃敯T4)",
+      "type": 4,
+      "api": "https://catbox.n13.club/t9/bili.php"
+    },
+    {
+      "key": "馃敯T4-waiyu",
+      "name": "B绔�-澶栬(馃敯T4)",
+      "type": 4,
+      "api": "https://catbox.n13.club/t9/bili.php?id=waiyu"
+    },
+    {
+      "key": "馃敯T4-bili1",
+      "name": "B绔�-骞煎効(馃敯T4)",
+      "type": 4,
+      "api": "https://catbox.n13.club/t9/bili.php?id=灏戝効鏁欒偛"
+    },
+    {
+      "key": "馃敯T4-bili2",
+      "name": "B绔�-灏忓(馃敯T4)",
+      "type": 4,
+      "api": "https://catbox.n13.club/t9/bili.php?id=灏忓璇惧爞"
+    },
+    {
+      "key": "馃敯T4-bili3",
+      "name": "B绔�-鍒濅腑(馃敯T4)",
+      "type": 4,
+      "api": "https://catbox.n13.club/t9/bili.php?id=鍒濅腑璇惧爞"
+    },
+    {
+      "key": "馃敯T4-bili4",
+      "name": "B绔�-楂樹腑(馃敯T4)",
+      "type": 4,
+      "api": "https://catbox.n13.club/t9/bili.php?id=楂樹腑璇惧爞"
+    },
+    {
+      "key": "馃敯T4-灏忕伅濉旂瀛�",
+      "name": "B绔�-灏忕伅濉旂瀛�(馃敯T4)",
+      "type": 4,
+      "api": "https://catbox.n13.club/t9/bili.php?id=灏忕伅濉旂瀛�"
+    },
+    {
+      "key": "馃敯T4-灏忕伅濉斿湴鐞�",
+      "name": "B绔�-灏忕伅濉斿湴鐞�(馃敯T4)",
+      "type": 4,
+      "api": "https://catbox.n13.club/t9/bili.php?id=灏忕伅濉斿湴鐞�"
+    },
+    {
+      "key": "馃敯T4-灏忕伅濉旂櫨绉�",
+      "name": "B绔�-灏忕伅濉旂櫨绉�(馃敯T4)",
+      "type": 4,
+      "api": "https://catbox.n13.club/t9/bili.php?id=灏忕伅濉旂櫨绉�"
+    },
+    {
+      "key": "馃敯T4-灏忕伅濉斿浗瀛�",
+      "name": "B绔�-灏忕伅濉斿浗瀛�(馃敯T4)",
+      "type": 4,
+      "api": "https://catbox.n13.club/t9/bili.php?id=灏忕伅濉斿浗瀛�"
+    },
+    {
+      "key": "馃敯T4-鍎跨鍙ｆ墠",
+      "name": "B绔�-鍎跨鍙ｆ墠(馃敯T4)",
+      "type": 4,
+      "api": "https://catbox.n13.club/t9/bili.php?id=鍎跨鍙ｆ墠"
+    },
+    {
+      "key": "馃敯T4-鍎跨鎷奸煶",
+      "name": "B绔�-鍎跨鎷奸煶(馃敯T4)",
+      "type": 4,
+      "api": "https://catbox.n13.club/t9/bili.php?id=鍎跨鎷奸煶"
+    },
+    {
+      "key": "馃敯T4-鍎跨璇嗗瓧",
+      "name": "B绔�-鍎跨璇嗗瓧(馃敯T4)",
+      "type": 4,
+      "api": "https://catbox.n13.club/t9/bili.php?id=鍎跨璇嗗瓧"
+    },
+    {
+      "key": "馃敯T4-鍎跨鎬濈淮",
+      "name": "B绔�-鍎跨鎬濈淮(馃敯T4)",
+      "type": 4,
+      "api": "https://catbox.n13.club/t9/bili.php?id=鍎跨鎬濈淮"
+    },
+    {
+      "key": "馃敯T4-鍎跨鑻辫",
+      "name": "B绔�-鍎跨鑻辫(馃敯T4)",
+      "type": 4,
+      "api": "https://catbox.n13.club/t9/bili.php?id=鍎跨鑻辫"
+    },
+    {
+      "key": "馃敯T4-鍎跨纭瑪",
+      "name": "B绔�-鍎跨纭瑪(馃敯T4)",
+      "type": 4,
+      "api": "https://catbox.n13.club/t9/bili.php?id=鍎跨纭瑪"
+    },
+    {
+      "key": "馃敯T4-鍎跨缂栫▼",
+      "name": "B绔�-鍎跨缂栫▼(馃敯T4)",
+      "type": 4,
+      "api": "https://catbox.n13.club/t9/bili.php?id=鍎跨缂栫▼"
+    },
+    {
+      "key": "馃敯T4-鍎跨姝︽湳",
+      "name": "B绔�-鍎跨姝︽湳(馃敯T4)",
+      "type": 4,
+      "api": "https://catbox.n13.club/t9/bili.php?id=鍎跨姝︽湳"
+    },
+    {
+      "key": "馃敯T4-鍝斿摡濂楅1",
+      "name": "B绔�-鍝斿摡濂楅1(馃敯T4)",
+      "type": 4,
+      "api": "https://catbox.n13.club/t9/bili.php?id=鍝斿摡濂楅1"
+    },
+    {
+      "key": "馃敯T4-鍝斿摡濂楅2",
+      "name": "B绔�-鍝斿摡濂楅2(馃敯T4)",
+      "type": 4,
+      "api": "https://catbox.n13.club/t9/bili.php?id=鍝斿摡濂楅2"
+    },
+    {
+      "key": "馃敯T4-杞欢鏁欑▼",
+      "name": "B绔�-杞欢鏁欑▼(馃敯T4)",
+      "type": 4,
+      "api": "https://catbox.n13.club/t9/bili.php?id=杞欢鏁欑▼"
+    },
+    {
+      "key": "馃敯T4-鍚堥泦",
+      "name": "B绔�-鍚堥泦(馃敯T4)",
+      "type": 4,
+      "api": "https://catbox.n13.club/t9/bili.php?id=鍚堥泦"
+    },
+    {
+      "key": "馃敯T4-缇庨",
+      "name": "B绔�-缇庨(馃敯T4)",
+      "type": 4,
+      "api": "https://catbox.n13.club/t9/bili.php?id=缇庨"
+    },
+    {
+      "key": "馃敯T4-涓尰",
+      "name": "B绔�-涓尰(馃敯T4)",
+      "type": 4,
+      "api": "https://catbox.n13.club/t9/bili.php?id=涓尰"
+    },
+    {
+      "key": "馃敯T4-鐞冪被鍚堥泦",
+      "name": "B绔�-鐞冪被鍚堥泦(馃敯T4)",
+      "type": 4,
+      "api": "https://catbox.n13.club/t9/bili.php?id=鐞冪被鍚堥泦"
+    },
+    {
+      "key": "馃敯T4-鐞冩槦鍚堥泦",
+      "name": "B绔�-鐞冩槦鍚堥泦(馃敯T4)",
+      "type": 4,
+      "api": "https://catbox.n13.club/t9/bili.php?id=鐞冩槦鍚堥泦"
+    },
+    {
+      "key": "鏄熸槦褰辫",
+      "name": "馃挮鏄熸槦褰辫",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "浣滆€�": "鍐版按",
+        "绔欏悕": "鏄熸槦褰辫",
+        "璇锋眰澶�": "User-Agent$MOBILE_UA",
+        "缂栫爜": "UTF-8",
+        "涓婚〉url": "https://shyaoxuan.com/",
+        "棣栭〉": "120",
+        "璧峰椤�": "1",
+        "鍒嗙被url": "/vod_show/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html;;mrc",
+        "鍒嗙被": "鐢靛奖$1#鐢佃鍓�$2#缁艰壓$3#鍔ㄦ极$4#鐭墽$40",
+        "浜屾鎴彇": "",
+        "鏁扮粍": "hl-lazy\"&&</a",
+        "鏍囬": "title=\"&&\"",
+        "鍥剧墖": "data-original=\"&&\"",
+        "鍓爣棰�": "馃尮+state\">&&</",
+        "閾炬帴": "href=\"&&\"",
+        "褰辩墖骞翠唬": "骞翠唤锛�&&</li",
+        "绾胯矾鏁扮粍": "javascript:void(0);&&/a>",
+        "绾胯矾鏍囬": "馃崉绾胯矾+</i>&nbsp;&&</a",
+        "鎾斁浜屾鎴彇": "",
+        "鎾斁鏁扮粍": "id=\"hl-plays-list\">&&</ul>",
+        "鍊掑簭": "0",
+        "鎾斁鍒楄〃": "<a&&/a>",
+        "鎾斁鏍囬": "馃尮+>&&<",
+        "鎾斁閾炬帴": "href=\"&&\"",
+        "璺宠浆鎾斁閾炬帴": "var player_*\"url\":\"&&\"",
+        "鎼滅储璇锋眰澶�": "User-Agent$MOBILE_UA",
+        "鎺掑簭": "鏈€鏂颁笂鏄�&瓒呴珮浜烘皵&鍏ㄧ綉鐑挱&楂樺垎濂借瘎",
+        "鎺掑簭鍊�": "time&hits&up&score",
+        "绛涢€�": "1",
+        "绫诲瀷": "鍔ㄤ綔鐗�$7#鍠滃墽鐗�$8#鐖辨儏鐗�$9#绉戝够鐗�$10#鎭愭€栫墖$11#鍓ф儏鐗�$12#鍒氬垰鐗�$29#鎴樹簤鐗�$13||鍥戒骇鍓�$14#娓墽$15#楂樺墽$16#鐭墽$40#闊╁墽$17#鏃ュ墽$18#娉板墽$31#娆х編鍓�$19#娴峰鍓�$20||澶ч檰缁艰壓$21#鍗堜紤鍦�$30#娓患鑹�$23#娆х編缁艰壓$24||鍥戒骇鍔ㄦ极$25#鏃ユ湰鍔ㄦ极$26#娆х編鍔ㄦ极$27#娴峰鍔ㄦ极$28||绌�"
+      }
+    },
+    {
+      "key": "蹇偣鎾�",
+      "name": "馃挍蹇偣鎾攦褰辫",
+      "click": "document.querySelector(\"#playleft iframe\").contentWindow.document.querySelector(\"#start\").click();",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": {
+        "绠€浠�": "涓烘偍鍓ф儏浠嬬粛:+detail-content\" style=*>&&</span>",
+        "鍒嗙被url": "http://www.quickvod.cc/type/{cateId}.html",
+        "鍒嗙被": "鐢佃鍓�$2#鐢靛奖$1#鍔ㄦ极$4#缁艰壓$3"
+      }
+    }
+  ],
+  "parses": [
+    {
+      "name": "瑙ｆ瀽鑱氬悎",
+      "type": 3,
+      "url": "Demo"
+    },
+    {
+      "name": "Json骞跺彂",
+      "type": 2,
+      "url": "Parallel"
+    },
+    {
+      "name": "Json杞",
+      "type": 2,
+      "url": "Sequence"
+    },
+    {
+      "name": "浼樼埍鑵�",
+      "type": 0,
+      "url": "https://jx.jsonplayer.com/player/?url=",
+      "ext": {
+        "flag": [
+          "youku",
+          "YouKu",
+          "浼橀叿",
+          "浼橀叿瑙嗛",
+          "iqiyi",
+          "IQiYi",
+          "qiyi",
+          "鐖卞鑹�",
+          "濂囪壓",
+          "濂囪壓瑙嗛",
+          "qq",
+          "鑵捐",
+          "浼侀箙",
+          "鑵捐瑙嗛",
+          "bilibili",
+          "鍝斿摡",
+          "鍝斿摡鍝斿摡",
+          "letv",
+          "leshi",
+          "LS",
+          "涔愯瑙嗛",
+          "pptv",
+          "PPTV",
+          "sohu",
+          "SoHu",
+          "鎼滅嫄",
+          "鎼滅嫄瑙嗛"
+        ]
+      }
+    },
+    {
+      "name": "m3u8",
+      "type": 0,
+      "url": "https://jx.m3u8.tv/jiexi/?url="
+    },
+    {
+      "name": "鍒氫浆",
+      "type": 1,
+      "url": "http://json.g9.pub:66/?url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "鑵捐",
+          "qiyi",
+          "鐖卞鑹�",
+          "濂囪壓",
+          "youku",
+          "浼橀叿",
+          "mgtv",
+          "imgo",
+          "鑺掓灉",
+          "letv",
+          "涔愯",
+          "pptv",
+          "PPTV",
+          "sohu",
+          "bilibili",
+          "鍝斿摡鍝斿摡",
+          "鍝斿摡"
+        ],
+        "header": {
+          "User-Agent": "okhttp/4.1.0"
+        }
+      }
+    },
+    {
+      "name": "瑙ｆ瀽1",
+      "type": 1,
+      "url": "http://27.124.4.42:4567/jhjson/ceshi.php?url="
+    },
+    {
+      "name": "鑺掓灉",
+      "type": 1,
+      "url": "https://jx.255tv.tk/api/?key=S6kQHaE1gVEY5KAv8L&url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "鑵捐",
+          "qiyi",
+          "鐖卞鑹�",
+          "濂囪壓",
+          "youku",
+          "浼橀叿",
+          "mgtv",
+          "鑺掓灉",
+          "letv",
+          "涔愯",
+          "pptv",
+          "PPTV",
+          "sohu",
+          "bilibili",
+          "鍝斿摡鍝斿摡",
+          "鍝斿摡"
+        ],
+        "header": {
+          "User-Agent": "okhttp/4.1.0"
+        }
+      }
+    },
+    {
+      "name": "浼橀叿",
+      "type": 0,
+      "url": "https://yun.ckmov.com/?url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "鑵捐",
+          "qiyi",
+          "鐖卞鑹�",
+          "濂囪壓",
+          "youku",
+          "浼橀叿",
+          "mgtv",
+          "鑺掓灉",
+          "letv",
+          "涔愯",
+          "pptv",
+          "PPTV",
+          "sohu",
+          "bilibili",
+          "鍝斿摡鍝斿摡",
+          "鍝斿摡"
+        ],
+        "header": {
+          "User-Agent": "okhttp/4.1.0"
+        }
+      }
+    },
+    {
+      "name": "360",
+      "type": 1,
+      "url": "https://vip.mosangkeji.com/api/?key=rRNvXAnOghBBLnC35c&url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "鑵捐",
+          "浼侀箙",
+          "IQiYi",
+          "qiyi",
+          "鐖卞鑹�",
+          "濂囪壓",
+          "youku",
+          "YouKu",
+          "浼橀叿",
+          "sohu",
+          "SoHu",
+          "鎼滅嫄",
+          "letv",
+          "LeShi",
+          "涔愯",
+          "imgo",
+          "mgtv",
+          "MangGuo",
+          "鑺掓灉",
+          "SLYS4k",
+          "BYGA",
+          "luanzi",
+          "AliS",
+          "dxzy",
+          "bilibili",
+          "QEYSS",
+          "xigua",
+          "瑗跨摐瑙嗛",
+          "鑵捐瑙嗛",
+          "濂囪壓瑙嗛",
+          "浼橀叿瑙嗛",
+          "鑺掓灉瑙嗛",
+          "涔愯瑙嗛"
+        ]
+      }
+    },
+    {
+      "name": "鎼滅嫍",
+      "type": 1,
+      "url": "https://www.alyzy.xyz/api/?key=KiK9W5QalBfNDEgUDs&url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "鑵捐",
+          "qiyi",
+          "鐖卞鑹�",
+          "濂囪壓",
+          "youku",
+          "浼橀叿",
+          "mgtv",
+          "鑺掓灉",
+          "letv",
+          "涔愯",
+          "pptv",
+          "PPTV",
+          "sohu",
+          "bilibili",
+          "鍝斿摡鍝斿摡",
+          "鍝斿摡"
+        ],
+        "header": {
+          "User-Agent": "okhttp/4.1.0"
+        }
+      }
+    },
+    {
+      "name": "灏忓奖瑙�",
+      "type": 0,
+      "url": "https://bv.htoo.vip/?url="
+    },
+    {
+      "name": "灏忓煄瑙ｆ瀽",
+      "type": 1,
+      "url": "https://jx.ccabc.cc/xc/?key=5567332json&url="
+    },
+    {
+      "name": "鏄熻景浜戣В鏋�",
+      "type": 1,
+      "url": "https://json.key521.cn/api/?key=df27d9ca9ec97e22c47f8565a50aa6f5&url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "鑵捐",
+          "浼侀箙",
+          "IQiYi",
+          "qiyi",
+          "鐖卞鑹�",
+          "濂囪壓",
+          "youku",
+          "YouKu",
+          "浼橀叿",
+          "sohu",
+          "SoHu",
+          "鎼滅嫄",
+          "letv",
+          "LeShi",
+          "涔愯",
+          "imgo",
+          "mgtv",
+          "MangGuo",
+          "鑺掓灉",
+          "SLYS4k",
+          "BYGA",
+          "luanzi",
+          "AliS",
+          "dxzy",
+          "bilibili",
+          "QEYSS",
+          "xigua",
+          "瑗跨摐瑙嗛",
+          "鑵捐瑙嗛",
+          "濂囪壓瑙嗛",
+          "浼橀叿瑙嗛",
+          "鑺掓灉瑙嗛",
+          "涔愯瑙嗛"
+        ]
+      }
+    },
+    {
+      "name": "灏忔柊瑙ｆ瀽",
+      "type": 1,
+      "url": "http://xiaoxin.1080p.me/api/?key=368b2df76af1b58d897bbe31a00180c0&url="
+    },
+    {
+      "name": "鐪嬬湅",
+      "type": 0,
+      "url": "https://www.kankanju.cc/f/jxplayer.php?v=",
+      "flag": [
+        "Feiyun-",
+        "mgtv",
+        "鑺掓灉"
+      ]
+    },
+    {
+      "name": "姣涗笁",
+      "type": 1,
+      "url": "https://vip.mosangkeji.com/api/?key=PLvqEH5S4OsBrVdzv6&url=",
+      "header": {
+        "User-Agent": "Dart/2.18 (dart:io)"
+      },
+      "ext": {
+        "flag": [
+          "qq",
+          "鑵捐",
+          "youku",
+          "hulihuli",
+          "hulihuli-",
+          "浼橀叿"
+        ]
+      }
+    },
+    {
+      "name": "777",
+      "type": 0,
+      "url": "https://jx.777jiexi.com/player/?url="
+    },
+    {
+      "name": "甯冮浄/鑺�",
+      "type": 0,
+      "url": "https://jx.jsonplayer.com/player/?url=",
+      "ext": {
+        "flag": [
+          "qiyi",
+          "iqiyi",
+          "鐖卞鑹�",
+          "濂囪壓",
+          "pptv",
+          "PPTV",
+          "letv",
+          "涔愯",
+          "leshi",
+          "bilibili",
+          "鍝斿摡鍝斿摡",
+          "鍝斿摡",
+          "mgtv",
+          "鑺掓灉",
+          "sohu",
+          "鎼滅嫄",
+          "xigua",
+          "fun",
+          "leshi",
+          "椋庤"
+        ],
+        "header": {
+          "User-Agent": "okhttp/4.1.0"
+        }
+      }
+    },
+    {
+      "name": "鑺掗珮/濂囧紓1",
+      "type": 0,
+      "url": "https://jx.bozrc.com:4433/player/?url=",
+      "ext": {
+        "flag": [
+          "qiyi",
+          "iqiyi",
+          "鐖卞鑹�",
+          "濂囪壓",
+          "pptv",
+          "PPTV",
+          "letv",
+          "涔愯",
+          "leshi",
+          "bilibili",
+          "鍝斿摡鍝斿摡",
+          "鍝斿摡",
+          "mgtv",
+          "imgo",
+          "鑺掓灉",
+          "sohu",
+          "鎼滅嫄",
+          "xigua",
+          "fun",
+          "leshi",
+          "椋庤"
+        ],
+        "header": {
+          "User-Agent": "okhttp/4.1.0"
+        }
+      }
+    },
+    {
+      "name": "鑺掗珮/濂囧紓2",
+      "type": 0,
+      "url": "https://jx.zhanlangbu.com/?url=",
+      "ext": {
+        "flag": [
+          "qiyi",
+          "iqiyi",
+          "鐖卞鑹�",
+          "濂囪壓",
+          "pptv",
+          "PPTV",
+          "letv",
+          "涔愯",
+          "leshi",
+          "bilibili",
+          "鍝斿摡鍝斿摡",
+          "鍝斿摡",
+          "mgtv",
+          "imgo",
+          "鑺掓灉",
+          "sohu",
+          "鎼滅嫄",
+          "xigua",
+          "fun",
+          "leshi",
+          "椋庤"
+        ],
+        "header": {
+          "User-Agent": "okhttp/4.1.0"
+        }
+      }
+    },
+    {
+      "name": "8old",
+      "type": 0,
+      "url": "https://www.m3u8.tv.cdn.8old.cn/jx.php?url=",
+      "ext": {
+        "flag": [
+          "360",
+          "qq",
+          "鑵捐",
+          "qiyi",
+          "iqiyi",
+          "鐖卞鑹�",
+          "濂囪壓",
+          "youku",
+          "浼橀叿",
+          "mgtv",
+          "鑺掓灉",
+          "letv",
+          "涔愯",
+          "pptv",
+          "PPTV",
+          "sohu",
+          "bilibili",
+          "鍝斿摡鍝斿摡",
+          "鍝斿摡"
+        ]
+      }
+    }
+  ],
+  "flags": [
+    "youku",
+    "qq",
+    "iqiyi",
+    "imgo",
+    "xueren",
+    "m1905",
+    "qiyi",
+    "letv",
+    "sohu",
+    "tudou",
+    "pptv",
+    "dbm3u8",
+    "mgtv",
+    "wasu",
+    "bilibili",
+    "le",
+    "duoduozy",
+    "renrenmi",
+    "xigua",
+    "浼橀叿",
+    "瑗跨摐",
+    "涔愯",
+    "鑺掓灉",
+    "鑵捐",
+    "鐖卞鑹�",
+    "濂囪壓",
+    "ltnb",
+    "rx",
+    "CL4K",
+    "xfyun",
+    "wuduzy",
+    "鍝斿摡鍝斿摡",
+    "鍝斿摡"
+  ],
+  "ijk": [
+    {
+      "group": "杞В鐮�",
+      "options": [
+        {
+          "category": 4,
+          "name": "opensles",
+          "value": "0"
+        },
+        {
+          "category": 4,
+          "name": "overlay-format",
+          "value": "842225234"
+        },
+        {
+          "category": 4,
+          "name": "framedrop",
+          "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "soundtouch",
+          "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "start-on-prepared",
+          "value": "1"
+        },
+        {
+          "category": 1,
+          "name": "http-detect-range-support",
+          "value": "0"
+        },
+        {
+          "category": 1,
+          "name": "fflags",
+          "value": "fastseek"
+        },
+        {
+          "category": 2,
+          "name": "skip_loop_filter",
+          "value": "48"
+        },
+        {
+          "category": 4,
+          "name": "reconnect",
+          "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "enable-accurate-seek",
+          "value": "0"
+        },
+        {
+          "category": 4,
+          "name": "mediacodec",
+          "value": "0"
+        },
+        {
+          "category": 4,
+          "name": "mediacodec-auto-rotate",
+          "value": "0"
+        },
+        {
+          "category": 4,
+          "name": "mediacodec-handle-resolution-change",
+          "value": "0"
+        },
+        {
+          "category": 4,
+          "name": "mediacodec-hevc",
+          "value": "0"
+        },
+        {
+          "category": 1,
+          "name": "dns_cache_timeout",
+          "value": "600000000"
+        }
+      ]
+    },
+    {
+      "group": "纭В鐮�",
+      "options": [
+        {
+          "category": 4,
+          "name": "opensles",
+          "value": "0"
+        },
+        {
+          "category": 4,
+          "name": "overlay-format",
+          "value": "842225234"
+        },
+        {
+          "category": 4,
+          "name": "framedrop",
+          "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "soundtouch",
+          "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "start-on-prepared",
+          "value": "1"
+        },
+        {
+          "category": 1,
+          "name": "http-detect-range-support",
+          "value": "0"
+        },
+        {
+          "category": 1,
+          "name": "fflags",
+          "value": "fastseek"
+        },
+        {
+          "category": 2,
+          "name": "skip_loop_filter",
+          "value": "48"
+        },
+        {
+          "category": 4,
+          "name": "reconnect",
+          "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "enable-accurate-seek",
+          "value": "0"
+        },
+        {
+          "category": 4,
+          "name": "mediacodec",
+          "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "mediacodec-auto-rotate",
+          "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "mediacodec-handle-resolution-change",
+          "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "mediacodec-hevc",
+          "value": "1"
+        },
+        {
+          "category": 1,
+          "name": "dns_cache_timeout",
+          "value": "600000000"
+        }
+      ]
+    }
+  ],
+  "ads": [
+    "wan.51img1.com",
+    "iqiyi.hbuioo.com",
+    "vip.ffzyad.com",
+    "https://lf1-cdn-tos.bytegoofy.com/obj/tos-cn-i-dy/455ccf9e8ae744378118e4bd289288dd",
+    "mimg.0c1q0l.cn",
+    "www.googletagmanager.com",
+    "www.google-analytics.com",
+    "mc.usihnbcq.cn",
+    "mg.g1mm3d.cn",
+    "mscs.svaeuzh.cn",
+    "cnzz.hhttm.top",
+    "tp.vinuxhome.com",
+    "cnzz.mmstat.com",
+    "www.baihuillq.com",
+    "s23.cnzz.com",
+    "z3.cnzz.com",
+    "c.cnzz.com",
+    "stj.v1vo.top",
+    "z12.cnzz.com",
+    "img.mosflower.cn",
+    "tips.gamevvip.com",
+    "ehwe.yhdtns.com",
+    "xdn.cqqc3.com",
+    "www.jixunkyy.cn",
+    "sp.chemacid.cn",
+    "hm.baidu.com",
+    "s9.cnzz.com",
+    "z6.cnzz.com",
+    "um.cavuc.com",
+    "mav.mavuz.com",
+    "wofwk.aoidf3.com",
+    "z5.cnzz.com",
+    "xc.hubeijieshikj.cn",
+    "tj.tianwenhu.com",
+    "xg.gars57.cn",
+    "k.jinxiuzhilv.com",
+    "cdn.bootcss.com",
+    "ppl.xunzhuo123.com",
+    "xomk.jiangjunmh.top",
+    "img.xunzhuo123.com",
+    "z1.cnzz.com",
+    "s13.cnzz.com",
+    "xg.huataisangao.cn",
+    "z7.cnzz.com",
+    "z2.cnzz.com",
+    "s96.cnzz.com",
+    "q11.cnzz.com",
+    "thy.dacedsfa.cn",
+    "xg.whsbpw.cn",
+    "s19.cnzz.com",
+    "z8.cnzz.com",
+    "s4.cnzz.com",
+    "f5w.as12df.top",
+    "ae01.alicdn.com",
+    "www.92424.cn",
+    "k.wudejia.com",
+    "vivovip.mmszxc.top",
+    "qiu.xixiqiu.com",
+    "cdnjs.hnfenxun.com",
+    "cms.qdwght.com"
+  ]
+}
